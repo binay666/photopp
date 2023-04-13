@@ -26,7 +26,6 @@ if sltd == "Main":
     lottie_coding = load_lottie("https://assets7.lottiefiles.com/packages/lf20_GxMZME.json")
      
     st_lottie(lottie_coding,height=400)
-    st.write("---")
     st.write('''
     This webapp is created by me, Pratyasha Panda of Department of Information Technology, First Year.
     This webapp allows the user to either upload the desired Photo or Video from Local files or from Webcam directly.
