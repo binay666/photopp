@@ -22,7 +22,7 @@ if sltd == "Main":
         r= requests.get(url)
         if r.status_code != 200:
           return None 
-    return r.json()
+        return r.json()
     
     lottie_coding = load_lottie("https://assets7.lottiefiles.com/packages/lf20_GxMZME.json")
      
