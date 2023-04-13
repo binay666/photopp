@@ -21,6 +21,7 @@ if sltd == "Main":
     This webapp is created by me, Pratyasha Panda of Department of Information Technology, First Year.
     This webapp allows the user to either upload the desired Photo or Video from Local files or from Webcam directly.
     This is the first time I've created an webapp using Streamlit so your feedbacks and critiques are highly welcomed.
+    Kindly select Photo or Video from the Navigation Menu to proceed.
     
     ''')
 
