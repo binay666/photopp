@@ -17,7 +17,6 @@ with st.sidebar:
 if sltd == "Main":
     st.subheader("Welcome to photoapp :camera: ")
     st.title("Webapp to upload Photos and Videos ")
-    st.write("")
     def load_lottie(url):
         r= requests.get(url)
         if r.status_code != 200:
